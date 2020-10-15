@@ -14,3 +14,4 @@ I've learned about using version control system Git:
 * Work with branches
 * Undo mistakes
 
+![Screenshot-Udacity](./git_basics/vc_wih_git.png)
