@@ -1,9 +1,9 @@
 # kottans-frontend
 
 ## General
- 0. [Git Basics](tasks/git_start.md)
- 1. [Linux CLI and Networking](tasks/linux_cli.md)
- 2. [VCS (hello gitty), GitHub and Collaboration](tasks/git_collaboration.md)
+ 0. [Git Basics](#git-and-github)
+ 1. [Linux CLI and Networking]
+ 2. [VCS (hello gitty), GitHub and Collaboration]
 
 <a name="git-and-github"></a>
 ### Git and Github
