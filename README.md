@@ -1,12 +1,12 @@
 # kottans-frontend
 
-## General
+### General
  0. [Git Basics](#git-and-github)
- 1. [Linux CLI and Networking]
+ 1. [Linux CLI and HTTP](#linux-cli)
  2. [VCS (hello gitty), GitHub and Collaboration]
 
 <a name="git-and-github"></a>
-### Git and Github
+## Git and Github
 I've learned about using version control system Git: 
 * Create a repo
 * Commit changes
@@ -15,3 +15,19 @@ I've learned about using version control system Git:
 * Undo mistakes
 
 ![Screenshot-Udacity](./git_basics/git_base.png)
+
+<a name="linux-cli"></a>
+## Linux CLI and HTTP
+I've learned about using command Linux: 
+* Directory structure
+* Work with files
+* Security
+* Output files
+* Disk space and processes
+
+![Screenshot-Udacity](./task_linux_cli/end_module1.jpg)
+![Screenshot-Udacity](./task_linux_cli/end_module2.jpg)
+![Screenshot-Udacity](./task_linux_cli/end_module3.jpg)
+![Screenshot-Udacity](./task_linux_cli/end_module4.jpg)
+
+
