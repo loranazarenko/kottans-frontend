@@ -3,7 +3,7 @@
 ### General
  0. [Git Basics](#git-and-github)
  1. [Linux CLI and HTTP](#linux-cli)
- 2. [VCS (hello gitty), GitHub and Collaboration]
+ 2. [GitHub and Collaboration](#git-сollaboration)
 
 <a name="git-and-github"></a>
 ## Git and Github
@@ -30,4 +30,8 @@ I've learned about using command Linux:
 ![Screenshot-Udacity](./task_linux_cli/end_module3.jpg)
 ![Screenshot-Udacity](./task_linux_cli/end_module4.jpg)
 
+<a name="git-сollaboration"></a>
+## Git Collaboration
+I've learned about work with remote repository, push, pull, fetch.
 
+![Screenshot-Udacity](./task_git_collaboration/git_collaboration.jpg)
